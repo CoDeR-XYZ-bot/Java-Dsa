@@ -1,5 +1,6 @@
+package S_WrapperClass;
 
-public class K_ArrayQPart2 {
+public class B_CaseStudyOnWrapperClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

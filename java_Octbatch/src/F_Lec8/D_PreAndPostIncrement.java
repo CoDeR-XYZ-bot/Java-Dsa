@@ -11,11 +11,11 @@ public class D_PreAndPostIncrement {
 //		i=i+1;
 //		i++;
 		
-//		int b= i++;
-//		System.out.println(i + " "+ b);
+		int b= i++;
+		System.out.println(i + " "+ b);
 		
-//		System.out.println(i--);
-//		System.out.println(i--);
+		System.out.println(i--);
+		System.out.println(i--);
 		
 		int a= i++ -12 + --i - 13 ;
 		System.out.println(a+ " "+ i);

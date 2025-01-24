@@ -16,7 +16,7 @@ public class A_CountTheDigit {
 		 */
 		int count=0;
 		while(n!=0) {
-			n=n/10;
+			n=n/10;//eliminates digits from the number
 			count+=1;
 		}
 		System.out.println(count);
